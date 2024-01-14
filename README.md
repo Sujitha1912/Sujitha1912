@@ -22,8 +22,10 @@
   - [HR Data Analysis](https://github.com/Sujitha1912/HR-Data-analytics-using-Power-BI)
   - [Analysis using PowerBI DAX](https://github.com/Sujitha1912/PowerBI-DAX-Operations)
  
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2> 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<b> [<img align="left" alt="Sujitha Rathinasabapathy| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] </b>
+<b> [<img align="left" alt="Gmail" width="22px" src="https://fonts.gstatic.com/s/i/materialiconsoutlined/mail_outline/v10/24px.svg" />][gmail] </b>
 
 [linkedin]:  https://www.linkedin.com/in/sujitha1912
+[gmail]:  mailto:sujitha.rathinasabapathy@gmail.com
