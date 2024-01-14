@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sujitha! <br/><a href="https://github.com/Sujitha">Data Analyst</a> / <a href="https://www.linkedin.com/in/sujitha1912">Business Analyst</a>
+<h1>Hi, I'm Sujitha! <br/><a href="https://github.com/Sujitha1912">Data Analyst</a> / <a href="https://www.linkedin.com/in/sujitha1912">Business Analyst</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
