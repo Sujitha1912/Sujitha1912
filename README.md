@@ -4,7 +4,7 @@
 
 - <b> <h3> Python  </h3> </b>
   - [Loan Delinquency Prediction in Prosper Loans using Machine Learning](https://github.com/Sujitha1912/Prosper_Loan_Data_Analysis)
-  - [MTA NYC Ridership Tren Analysis](https://github.com/Sujitha1912/Ridership-trend-analysis)
+  - [MTA NYC Ridership Trend Analysis](https://github.com/Sujitha1912/Ridership-trend-analysis)
   - [Analysis on Amazon Sales Report using Python (NumPy, Pandas, Matplotlib, Seaborn)](https://github.com/Sujitha1912/Data-Analysis-with-Python)
   - [Scrapping data from website using Python (Beautifulsoup, Pandas, Numpy, Matplotlib)](https://github.com/Sujitha1912/Scrapping-data-from-website-using-Python-pandas)
   - [FinTech data analysis Project- WIP ](https://github.com/Sujitha1912/Python-and-statistics-for-Financial-Analysis)
