@@ -3,6 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b> <h3> Python  </h3> </b>
+  - [Alzheimer's Disease Prediction and Exploratory Data Analysis using MRI Data](https://github.com/Sujitha1912/Alzheimer-s-Disease-EDA-and-Prediction-using-Machine-Learning-models/blob/main/README.md)
   - [Loan Delinquency Prediction in Prosper Loans using Machine Learning](https://github.com/Sujitha1912/Prosper_Loan_Data_Analysis)
   - [MTA NYC Ridership Trend Analysis](https://github.com/Sujitha1912/Ridership-trend-analysis)
   - [Analysis on Amazon Sales Report using Python (NumPy, Pandas, Matplotlib, Seaborn)](https://github.com/Sujitha1912/Data-Analysis-with-Python)
