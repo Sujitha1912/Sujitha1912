@@ -3,13 +3,13 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b> <h3> Python  </h3> </b>
-  - [Alzheimer's Disease Prediction and Exploratory Data Analysis using MRI Data](https://github.com/Sujitha1912/Alzheimer-s-Disease-EDA-and-Prediction-using-Machine-Learning-models/blob/main/README.md)
-  - [Loan Delinquency Prediction in Prosper Loans using Machine Learning](https://github.com/Sujitha1912/Prosper_Loan_Data_Analysis)
   - [MTA NYC Ridership Trend Analysis](https://github.com/Sujitha1912/Ridership-trend-analysis)
   - [Analysis on Amazon Sales Report using Python (NumPy, Pandas, Matplotlib, Seaborn)](https://github.com/Sujitha1912/Data-Analysis-with-Python)
   - [Scrapping data from website using Python (Beautifulsoup, Pandas, Numpy, Matplotlib)](https://github.com/Sujitha1912/Scrapping-data-from-website-using-Python-pandas)
   - [FinTech data analysis Project- WIP ](https://github.com/Sujitha1912/Python-and-statistics-for-Financial-Analysis)
 - <b> <h3> Machine Learning </h3> </b>
+  - [Alzheimer's Disease Prediction and Exploratory Data Analysis using MRI Data](https://github.com/Sujitha1912/Alzheimer-s-Disease-EDA-and-Prediction-using-Machine-Learning-models/blob/main/README.md)
+  - [Loan Delinquency Prediction in Prosper Loans using Machine Learning](https://github.com/Sujitha1912/Prosper_Loan_Data_Analysis)
   - [House Price Prediction using TensorFLow](https://github.com/Sujitha1912/TensorFlow/tree/main)
 - <b> <h3> SQL </h3> </b>
   - [Database Management Systems Project using SQL( ERD, Table Creation, Star Schema)- World population Database](https://github.com/Sujitha1912/Database-Management-Systems)
