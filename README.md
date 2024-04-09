@@ -12,6 +12,7 @@
   - [Loan Delinquency Prediction in Prosper Loans using Machine Learning](https://github.com/Sujitha1912/Prosper_Loan_Data_Analysis)
   - [House Price Prediction using TensorFLow](https://github.com/Sujitha1912/TensorFlow/tree/main)
 - <b> <h3> SQL </h3> </b>
+  - [Customer-Retention-Analysis-for-Online-Retail-Business---SQL-Cohort-Analysis](https://github.com/Sujitha1912/Customer-Retention-Analysis-for-Online-Retail-Business---SQL-Cohort-Analysis-/tree/main)
   - [Database Management Systems Project using SQL( ERD, Table Creation, Star Schema)- World population Database](https://github.com/Sujitha1912/Database-Management-Systems)
   - [Datawarehouse Project - Modeling Enterprise Datawarehouse (SQL, ETL, SSIS) - Modeling Enterprise Datawarehouse](https://github.com/Sujitha1912/Data-Warehouse)
 - <b> <h3> Tableau </h3> </b>
