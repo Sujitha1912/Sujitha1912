@@ -1,6 +1,25 @@
 <h1>Hi, I'm Sujitha! <br/><a href="https://github.com/Sujitha1912">Data Analyst</a> / <a href="https://www.linkedin.com/in/sujitha1912">Business Analyst</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
+<b> <h3>Regional Health Check Dashboard – Project Lead</b> </h3>
+
+<b> <h4>Objective:</b> </h4>
+Create a unified, region-wise health check process for 51 facilities to monitor revenue cycle KPIs, improve accountability, and optimize billing operations.
+
+<b> <h4>Execution:</b> </h4>
+- Developed a detailed Power BI dashboard segmented into 7 regions, tracking 20+ KPIs including denial rate, rejection rate, hold rate, error rate, velocity (service-to-payment, service-to-submission), and top manual/edit errors.
+- Built backend pipelines by extracting EPIC data via SQL tables and integrating vendor data from Optum, SSI, and Waystar.
+- Coordinated with vendors, regional heads, and facility directors to define KPIs, validate data, and drive adoption.
+- Authored user guides and documentation to standardize usage and ensure consistent monitoring.
+
+<b> <h4>Impact:</b> </h4>
+- Established periodic review meetings (monthly/bi-monthly) where regional heads and facility directors were held accountable for KPIs.
+- Improved visibility of operational gaps, reduced denial/rejection errors, and enhanced billing cycle performance.
+- Strengthened cash flow optimization and reporting transparency across the enterprise.
+
+<b> <h4>Recognition:</b> </h4> 
+- Awarded Best Employee of the Quarter (“Up & Coming Star”) for leading the initiative and driving measurable improvements.
+
 
 - <b> <h3> Python  </h3> </b>
   - [MTA NYC Ridership Trend Analysis](https://github.com/Sujitha1912/Ridership-trend-analysis)
